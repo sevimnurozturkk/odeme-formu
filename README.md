@@ -22,4 +22,4 @@ Bu proje, React kullanılarak geliştirilmiş basit ve şık bir **ödeme formu*
 
 ---
 ## 📸 Ekran Görüntüsü
-![Ödeme Formu] (./görev8.PNG)
+![Ödeme Formu Ekran Görüntüsü](./gorev8.png)
